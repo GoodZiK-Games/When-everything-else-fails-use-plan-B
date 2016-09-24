@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>content/bood.jpg</file>
+        <file>content/bood_and_frogs.jpg</file>
+        <file>content/default.jpg</file>
+        <file>content/frogs.jpg</file>
+        <file>content/logo.png</file>
+        <file>content/meteros.jpg</file>
+        <file>content/rain.jpg</file>
+    </qresource>
+</RCC>
